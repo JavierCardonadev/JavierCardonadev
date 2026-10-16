@@ -100,7 +100,7 @@ microfrontends independientes y despliegue automatizado.
 
 <p align="left">
   🌐 <a href="https://javiercardona.dev/es">javiercardona.dev</a> &nbsp;·&nbsp;
-  📄 <a href="https://javiercardona.dev/cv/Javier-Cardona-CV-ES.pdf">CV</a> &nbsp;·&nbsp;
+  📄 <a href="https://javiercardona.dev/cv/Javier-Cardona-CV.pdf">CV</a> &nbsp;·&nbsp;
   💼 <a href="https://www.linkedin.com/in/cardona-javier">LinkedIn</a> &nbsp;·&nbsp;
   ✉️ javiercardona.dev@gmail.com
 </p>
